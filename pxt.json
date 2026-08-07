@@ -4,8 +4,7 @@
     "description": "Procedural terrain generation for MakeCode Arcade",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "arcade": "*"
+        "device": "*"
     },
     "files": [
         "main.ts"
