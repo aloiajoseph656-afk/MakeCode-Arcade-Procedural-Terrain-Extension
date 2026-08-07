@@ -10,9 +10,9 @@ namespace proceduralLand {
     //% layer2Height.defl=5
     //% tilemapHeight.defl=16
     //% tilemapWidth.defl=16
-    //% surfaceBlock.shadow=tile
-    //% layer2Block.shadow=tile
-    //% layer3Block.shadow=tile
+    //% surfaceBlock.shadow=tileset_tile_picker
+    //% layer2Block.shadow=tileset_tile_picker
+    //% layer3Block.shadow=tileset_tile_picker
     //% group="Terrain"
     export function generate(
         heightChange: number,
