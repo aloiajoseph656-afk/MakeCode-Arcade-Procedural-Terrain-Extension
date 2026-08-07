@@ -1,0 +1,14 @@
+{
+    "name": "procedural-land",
+    "version": "0.0.1",
+    "description": "Procedural terrain generation for MakeCode Arcade",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "arcade": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "public": true
+}
